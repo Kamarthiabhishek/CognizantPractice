@@ -1,0 +1,34 @@
+package HostelDetails;
+
+import java.util.Scanner;
+
+public class Main extends Hosteller{
+	Scanner sc = new Scanner(System.in);
+	public static void main(String[] args) {
+		Hosteller h = getHostellerDetails();
+		
+		if(h != null) {
+			System.out.println("The student Details:");
+			System.out.println(h.studentId +" "+h.name+" "+h.departmentId+" "+h.gender+" "+h.phone+" "+h.ho);
+		}
+	}
+	
+	public static Hosteller getHostellerDetails() {
+		
+		Hosteller h = new Hosteller();
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the Details:");
+		System.out.println("Student Id:");
+		h.studentId =sc.nextInt();
+		System.out.println("Student name:");
+		h.name = sc.next();
+		System.out.println("Department Id:");
+		h.departmentId = sc.nextInt();
+		System.out.println("Gender:");
+		h.gender = sc.next();
+		System.out.println("Phone number:");
+		h.phone =sc.next();
+		System.out.println("Hostel Name:");
+		h.h
+	}
+}

@@ -1,0 +1,39 @@
+package CollectionFrameworks;
+import java.util.*;
+public class HashSets {
+	
+	public static void main(String[] args) {
+		HashSet<Integer> hashSet = new HashSet<>();
+		Scanner sc = new Scanner(System.in);
+		//Adding the values to the hashSet
+		
+		hashSet.add(0);
+		hashSet.add(1);
+		hashSet.add(2);
+		hashSet.add(3);
+		System.out.println(hashSet);
+		
+		//Size of the hashSet
+		System.out.println(hashSet.size());
+		
+		
+//		//searching the value
+//		int value = sc.nextInt();
+//		if(hashSet.contains(value)) {
+//			System.out.println("HashSet contains "+value);
+//		}else {
+//			System.out.println("HashMap doesn't contain "+value);
+//		}
+//		
+//		//Removing the value from HashSet
+//		hashSet.remove(1);
+		
+		System.out.println(hashSet);
+		
+		//printing the values using Iterator
+		Iterator<Integer> it = hashSet.iterator();
+		while(it.hasNext()) {
+			System.out.println(it.next());
+		}
+	}
+}

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\2318614\eclipse-workspace\Arrays"/>
+			<item value="C:\Users\2318614\eclipse-workspace\spring1"/>
+			<item value="C:\Users\2318614\eclipse-workspace"/>
+			<item value="C:\Users\2318614\eclipse-workspace\mavenpractice"/>
+			<item value="C:\Users\2318614\eclipse-workspace\ekart\pom.xml"/>
+			<item value="C:\Users\2318614\eclipse-workspace\ekart"/>
+			<item value="C:\Users\2318614\eclipse-workspace\E-Kart"/>
+			<item value="C:\Users\2318614\OneDrive - Cognizant\Documents\Spring Projects\demo"/>
+			<item value="C:\Users\2318614\eclipse-workspace\Project"/>
+			<item value="C:\Users\2318614\eclipse-workspace\Demo1"/>
+			<item value="C:\Users\2318614\eclipse-workspace\abhimaven"/>
+			<item value="C:\Users\2318614\OneDrive - Cognizant\Documents\Spring Projects\abhi1"/>
+			<item value="C:\Users\2318614\eclipse-workspace\maven1"/>
+			<item value="C:\Users\2318614\eclipse-workspace\CropProduction"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.cts.cart"/>
+		</list>
+		<list key="groupId">
+			<item value="com.cts"/>
+		</list>
+		<list key="artifactId">
+			<item value="cart"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\2318614\Downloads\SpringBoot_ShoppingCart-master\SpringBoot_ShoppingCart-master"/>
+			<item value="C:\Users\2318614\Downloads\demo"/>
+			<item value="C:\Users\2318614\Downloads\book"/>
+			<item value="C:\Users\2318614\eclipse-workspace\war"/>
+			<item value="C:\Users\2318614\Downloads\work"/>
+			<item value="C:\Users\2318614\eclipse-workspace\work"/>
+			<item value="C:\Users\2318614\Downloads\bestshop"/>
+			<item value="C:\Users\2318614\Downloads\abhi"/>
+			<item value="C:\Users\2318614\Downloads\21-Ioc-SpringBootThymeleaf_Mysql"/>
+			<item value="C:\Users\2318614\Downloads\demo-2"/>
+			<item value="C:\Users\2318614\Downloads\springjdbc"/>
+			<item value="C:\Users\2318614\Downloads\mmm"/>
+			<item value="C:\Users\2318614\Downloads\jdbc"/>
+			<item value="C:\Users\2318614\Downloads\TrainReservation 3 1"/>
+			<item value="C:\Users\2318614\Downloads\TrainReservation1\TrainReservation"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
